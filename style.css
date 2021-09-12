@@ -128,16 +128,17 @@ header {
   color: white;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   text-align: center;
+  justify-content: center;
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 65px;
   padding: 10px 0;
 }
 
 h2 {
+  word-wrap: normal;
   font-size: 30px;
   font-weight: 300;
   padding-top: 10px;
