@@ -78,4 +78,15 @@
       format("svg");
 }
 
-<
+body {
+  font-family: "San Francisco";
+}
+
+/* Header */
+header {
+  background: url("resources/images/main_background.jpg");
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
