@@ -164,3 +164,34 @@ h3 {
   height: 200px;
   border: 2px solid white;
 }
+
+/* footer */
+footer {
+  font-size: 10px;
+  color: #6e6e6e;
+  width: 980px;
+  margin: 0 auto;
+}
+
+.footer-line1,
+.footer-line2 {
+  width: 100%;
+}
+
+.footer-line1 {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-bottom: 26px;
+}
+
+.footer-line1-left,
+.footer-line1-right {
+  padding-top: 15px;
+}
+
+.left-border {
+  padding-left: 6px;
+  margin-left: 1px;
+  border-left: 1px solid #ccc;
+}
