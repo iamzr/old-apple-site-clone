@@ -212,6 +212,14 @@ h3:hover {
   border: 2px solid white;
 }
 
+.card-1 {
+  border-left: none;
+}
+
+.card-end {
+  border-right: none;
+}
+
 /* footer */
 footer {
   font-size: 10px;
