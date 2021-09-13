@@ -159,14 +159,14 @@ input:active {
 
 /* Header */
 header {
-  display: block;
   margin: 0 auto;
   width: 1440px;
-  height: 538px;
+  height: 616px;
   background: orange url("resources/images/main_background.jpg") no-repeat;
   background-size: cover;
   background-position: bottom;
   color: white;
+
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -226,6 +226,8 @@ footer {
   color: #6e6e6e;
   width: 980px;
   margin: 0 auto;
+  padding-left: 20px;
+  padding-bottom: 20px;
 }
 
 .footer-line1,
@@ -237,7 +239,7 @@ footer {
   display: flex;
   justify-content: space-between;
   padding-top: 10px;
-  padding-bottom: 26px;
+  padding-bottom: 20px;
 }
 
 .footer-line1-left,
